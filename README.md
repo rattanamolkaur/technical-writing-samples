@@ -6,6 +6,15 @@ My portfolio includes procedural documentation, structured content, information 
 
 ## Documentation Samples
 
+### AI Guardian — Generative AI Documentation
+
+A Generative AI documentation project demonstrating conceptual and procedural content for AI guardrails, Guardrail Service Providers, and AI safety configuration.
+
+**Demonstrates:** Generative AI documentation · Conceptual and procedural writing · Information architecture · Content remediation · Technical research · Enterprise documentation
+
+[View the AI Guardian documentation project](ai-documentation/ai-guardian/)
+
+---
 ### Business Intelligence Calendar — User Guide
 
 A task-based user documentation sample demonstrating conceptual and procedural content for managing calendars and scheduling reports in a business intelligence application.
