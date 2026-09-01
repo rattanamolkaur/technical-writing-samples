@@ -13,6 +13,12 @@ As a Senior Technical Writer at ServiceNow, I contributed to the AI Guardian doc
 
 My work covered both conceptual and task-based documentation, including content that helps administrators understand AI guardrail capabilities and configure guardrail services for generative AI interactions.
 
+## Writing Sample
+
+[View the Generative AI Guardrails writing sample →](generative-ai-guardrails.md)
+
+This sample demonstrates conceptual and procedural documentation for generative AI guardrails, including guardrail types, Guardrail Service Providers, and provider configuration.
+
 ## My Contribution
 
 My documentation work included:
