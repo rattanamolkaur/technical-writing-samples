@@ -26,11 +26,11 @@ The documentation is organized as a small docs-as-code project using Markdown an
 
 The sample includes the following topics:
 
-- API overview
-- Authentication
-- Create a support ticket
-- Retrieve a support ticket
-- Error responses
+- [API overview](docs/overview.md)
+- [Authentication](docs/authentication.md)
+- [Create a support ticket](docs/create-ticket.md)
+- [Retrieve a support ticket](docs/get-ticket.md)
+- [Error responses](docs/errors.md)
 
 ## Example Endpoints
 
