@@ -36,4 +36,3 @@ A task-based user documentation sample demonstrating conceptual and procedural c
 
 ---
 
-More samples will be added as this portfolio develops, including Generative AI documentation and docs-as-code projects.
