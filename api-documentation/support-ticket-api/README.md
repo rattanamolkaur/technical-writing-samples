@@ -10,17 +10,11 @@ The API enables client applications to create and retrieve support tickets by us
 
 The documentation is organized as a small docs-as-code project using Markdown and GitHub.
 
-## What This Sample Demonstrates
+## About this sample
 
-- REST API documentation
-- Developer-focused technical writing
-- HTTP methods and endpoints
-- Authentication and request headers
-- Path parameters
-- JSON request and response examples
-- HTTP status codes and error handling
-- Markdown authoring
-- GitHub-based docs-as-code structure
+I created this fictional Support Ticket API to demonstrate how I would structure and write REST API documentation for developers. The sample covers API fundamentals including authentication, endpoints, request and response formats, parameters, status codes, and error handling.
+
+The documentation is written in Markdown and organized in GitHub using a docs-as-code structure.
 
 ## API Documentation
 
@@ -51,5 +45,3 @@ support-ticket-api/
     ├── get-ticket.md
     └── errors.md
 ```
-
-> **Portfolio note:** This is an original fictional API created solely to demonstrate REST API documentation and docs-as-code practices. It is not associated with an actual product or service.
