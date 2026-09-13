@@ -23,16 +23,9 @@ This sample demonstrates conceptual and procedural documentation for generative 
 
 My documentation work included:
 
-* Authoring new conceptual and procedural documentation for AI Guardian capabilities.
-* Creating the Guardrail Service Provider configuration documentation from the ground up.
-* Updating existing Guardian topics to reflect new and evolving product functionality.
-* Identifying and correcting documentation gaps, technical inaccuracies, and outdated information.
-* Improving topic structure, information flow, and task-oriented organization.
-* Applying consistent terminology, voice, tone, and documentation standards across related topics.
-* Reviewing and resolving documentation feedback.
-* Collaborating with product managers, developers, QA engineers, and subject matter experts to understand product behavior and validate technical accuracy.
-* Improving the overall usability and consistency of the AI Guardian documentation set.
-
-## Skills Demonstrated
-
-Generative AI documentation · Technical writing · Conceptual and procedural documentation · Information architecture · Content remediation · Technical research · Structured authoring · SME collaboration · Documentation quality and governance
+- Authored new conceptual and procedural documentation for AI Guardian.
+- Created the Guardrail Service Provider configuration documentation from the ground up.
+- Updated existing Guardian topics to reflect evolving product functionality and resolved documentation feedback.
+- Identified and corrected content gaps, technical inaccuracies, and outdated information.
+- Improved topic structure, information flow, terminology, voice, and tone across related content.
+- Collaborated with product managers, developers, QA engineers, and subject matter experts to understand product behavior and validate technical accuracy.
