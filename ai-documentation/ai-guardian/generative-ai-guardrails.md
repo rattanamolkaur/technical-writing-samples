@@ -14,7 +14,7 @@ AI Guardian provides guardrails for different types of generative AI risks. The 
 | Prompt injection detection | Detects attempts to override LLM instructions, expose restricted information, or cause unintended model behavior. |
 | Sensitive topic filters | Detects configured sensitive subjects in supported Virtual Agent conversations and redirects the interaction instead of generating an AI response. |
 
-Guardrails can be configured based on the requirements of your organization and the generative AI experiences that you want to protect.
+Configure guardrails based on your organization's requirements and the generative AI interactions that you want to protect.
 
 ## Guardrail Service Providers
 
@@ -36,7 +36,7 @@ Select the Guardrail Service Provider that AI Guardian uses to evaluate generati
 
 ### Before you begin
 
-Ensure that you have the administrator role required to configure AI Guardian.
+You must have the administrator role to configure AI Guardian.
 
 If you plan to use a third-party or custom Guardrail Service Provider, complete the required provider connection and credential configuration before you activate the provider.
 
@@ -45,6 +45,7 @@ If you plan to use a third-party or custom Guardrail Service Provider, complete 
 AI Guardian supports ServiceNow, third-party, and custom Guardrail Service Providers. The selected provider evaluates supported generative AI interactions according to the guardrail capabilities and policies provided by that service.
 
 Only one Guardrail Service Provider can be active at a time.
+> **Note:** The following procedure is simplified for this portfolio sample and does not represent the complete ServiceNow configuration workflow.
 
 ### Procedure
 
@@ -58,10 +59,6 @@ Only one Guardrail Service Provider can be active at a time.
 
 The selected Guardrail Service Provider becomes the active provider for supported AI Guardian interactions.
 
-## Related information
-
-For production implementations, review the guardrail capabilities, supported interactions, provider requirements, and your organization's AI governance policies before activating a Guardrail Service Provider.
-
 ---
 
-> **Portfolio note:** This is an original, condensed writing sample created to demonstrate my approach to documenting enterprise generative AI guardrails. It is informed by my professional experience working on AI Guardian documentation at ServiceNow and does not reproduce the complete ServiceNow product documentation.
+> **Portfolio note:** This is an original, condensed writing sample based on my professional experience documenting AI Guardian at ServiceNow. It is provided for portfolio purposes and is not official ServiceNow documentation.
