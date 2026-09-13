@@ -15,6 +15,17 @@ A Generative AI documentation project demonstrating conceptual and procedural co
 [View the AI Guardian documentation project](ai-documentation/ai-guardian/)
 
 ---
+
+### Support Ticket API — Developer Documentation
+
+A REST API documentation sample demonstrating developer-focused content for a fictional support ticket service, including authentication, endpoints, request and response examples, parameters, status codes, and error handling.
+
+**Demonstrates:** REST API documentation · Developer documentation · JSON · HTTP methods and status codes · Authentication · Markdown · Docs-as-code
+
+[View the Support Ticket API documentation project](api-documentation/support-ticket-api/)
+
+---
+
 ### Business Intelligence Calendar — User Guide
 
 A task-based user documentation sample demonstrating conceptual and procedural content for managing calendars and scheduling reports in a business intelligence application.
